@@ -1,6 +1,6 @@
 # Medical Visualization
 ### Gui used to load DICOM series
-  ![Gui](../Imgs/GUI.jpeg)
+  ![Gui](Imgs/GUI.jpeg)
 
 
 #### Gui Contains:
@@ -10,28 +10,28 @@
 
 #### Brain DataSet
 - Surface Rendering with adjusted iso value
-![Head1](../Imgs/Brain_SurfRender2.jpeg)
-![Head1](../Imgs/brain_SurfaceCasting.jpeg)
+![Head1](Imgs/Brain_SurfRender2.jpeg)
+![Head1](Imgs/brain_SurfaceCasting.jpeg)
 
 - Casting Rendering
-![Head1](../Imgs/Brain_RayCasting.jpeg)
+![Head1](Imgs/Brain_RayCasting.jpeg)
 
 #### Head DataSet
 - Surface Rendering with adjusted iso value
-![Head2](../Imgs/Head_SurfaceCasting.jpeg)
-![Head2](../Imgs/Head_surface_render.jpeg)
+![Head2](Imgs/Head_SurfaceCasting.jpeg)
+![Head2](Imgs/Head_surface_render.jpeg)
 
 
 - Casting Rendering
-![Head3](../Imgs/Head_RayCasting.jpeg)
+![Head3](Imgs/Head_RayCasting.jpeg)
 
 
 #### Ankle DataSet
 
 - Surface Rendering with adjusted iso value
-![Head3](../Imgs/Ankle_SurfRender.jpeg)
-![Head3](../Imgs/Ankle_SurfRender2.jpeg)
+![Head3](Imgs/Ankle_SurfRender.jpeg)
+![Head3](Imgs/Ankle_SurfRender2.jpeg)
 
 - Casting Rendering
-![Head3](../Imgs/Ankle_RayCasting.jpeg)
+![Head3](Imgs/Ankle_RayCasting.jpeg)
 
